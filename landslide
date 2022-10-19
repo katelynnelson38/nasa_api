@@ -1,0 +1,1001 @@
+event_date,landslide_category,landslide_trigger,landslide_size,fatality_count,injury_count,country_name,longitude,latitude
+2014-05-20,landslide,downpour,small,0.0,0.0,New Zealand,167.6337,-46.7748
+2010-05-29,landslide,downpour,medium,0.0,0.0,New Zealand,170.0982,-45.9034
+2015-06-04,landslide,downpour,medium,0.0,0.0,New Zealand,170.6273,-45.8767
+2013-06-17,landslide,downpour,medium,0.0,0.0,New Zealand,170.5863,-45.8727
+2014-05-01,landslide,rain,small,0.0,0.0,New Zealand,170.509,-45.8618
+2010-02-17,mudslide,downpour,medium,3.0,0.0,Argentina,-67.5078,-45.858
+2010-05-29,landslide,downpour,medium,0.0,0.0,New Zealand,170.6328,-45.8456
+2013-06-17,landslide,downpour,medium,0.0,0.0,New Zealand,170.6646,-45.8358
+2013-06-19,landslide,downpour,medium,0.0,0.0,New Zealand,170.5957,-45.8243
+2013-06-20,mudslide,downpour,medium,0.0,0.0,New Zealand,170.5972,-45.8237
+2013-07-06,landslide,downpour,small,0.0,0.0,New Zealand,169.287,-45.0993
+2010-05-20,rock_fall,continuous_rain,medium,0.0,0.0,New Zealand,168.4885,-45.0775
+2010-03-22,landslide,downpour,medium,0.0,0.0,New Zealand,168.1112,-44.8454
+2010-05-26,rock_fall,downpour,medium,0.0,0.0,New Zealand,170.6453,-44.8431
+2013-09-10,landslide,downpour,large,0.0,0.0,New Zealand,167.9904,-44.765
+2007-10-18,rock_fall,unknown,medium,0.0,0.0,New Zealand,167.9581,-44.7493
+2013-09-10,snow_avalanche,downpour,medium,0.0,0.0,New Zealand,168.1281,-44.6887
+2017-07-03,landslide,rain,medium,0.0,0.0,other/unknown,167.940244,-44.675943
+2014-01-04,landslide,unknown,large,0.0,0.0,New Zealand,168.2992,-44.5838
+2007-09-24,landslide,rain,large,0.0,0.0,New Zealand,169.1339,-44.3025
+2013-09-10,landslide,downpour,medium,2.0,0.0,New Zealand,169.3808,-44.0582
+2013-09-10,landslide,downpour,medium,0.0,0.0,New Zealand,169.38,-44.0527
+2010-06-27,landslide,downpour,medium,0.0,0.0,New Zealand,172.7611,-43.7893
+2016-04-27,landslide,unknown,large,0.0,0.0,New Zealand,169.2058993,-43.72511118
+2008-01-13,landslide,freeze_thaw,very_large,0.0,0.0,New Zealand,170.0645,-43.7015
+2013-01-09,rock_fall,downpour,medium,0.0,0.0,New Zealand,170.159,-43.643
+2014-03-05,landslide,downpour,large,0.0,0.0,New Zealand,172.7072,-43.6069
+2012-04-11,mudslide,downpour,medium,0.0,0.0,New Zealand,172.7141,-43.6028
+2013-07-01,rock_fall,unknown,small,0.0,0.0,New Zealand,172.6894,-43.5897
+2013-01-05,rock_fall,earthquake,small,0.0,0.0,New Zealand,170.1797,-43.5698
+2013-01-21,complex,no_apparent_trigger,large,0.0,0.0,New Zealand,170.1796,-43.5611
+2013-01-23,rock_fall,earthquake,small,0.0,0.0,New Zealand,170.1806,-43.5606
+2013-01-21,rock_fall,earthquake,medium,0.0,0.0,New Zealand,170.1794,-43.5586
+2013-07-09,landslide,downpour,small,0.0,0.0,New Zealand,172.7171,-43.5569
+2016-11-16,landslide,earthquake,small,0.0,0.0,other/unknown,170.096946,-43.404715
+2012-05-29,landslide,downpour,large,0.0,0.0,Chile,-71.8666,-43.1826
+2017-01-18,landslide,rain,medium,0.0,0.0,other/unknown,171.5574912,-42.84729726
+2009-09-28,mudslide,downpour,small,0.0,0.0,Australia,147.185,-42.8216
+2009-08-24,complex,downpour,small,0.0,0.0,Australia,147.8621,-42.5589
+2016-11-13,landslide,rain,large,0.0,0.0,other/unknown,173.487651,-42.521674
+2010-09-10,landslide,earthquake,medium,0.0,0.0,New Zealand,173.5421,-42.4635
+2011-06-20,landslide,rain,medium,0.0,0.0,New Zealand,173.6814,-42.4008
+2017-04-06,mudslide,tropical_cyclone,small,0.0,0.0,other/unknown,173.8069031,-42.26370999
+2016-09-11,landslide,unknown,large,0.0,0.0,other/unknown,171.361312,-42.068955
+2009-08-25,mudslide,unknown,medium,0.0,0.0,Australia,145.6333,-42.05
+2016-11-28,landslide,other,medium,0.0,0.0,other/unknown,173.725986,-41.849833
+2007-08-10,landslide,rain,small,0.0,0.0,Australia,145.5473,-41.7689
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,174.2633,-41.7506
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,174.2538,-41.7331
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,173.9339,-41.7073
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,174.1664,-41.6885
+2008-05-09,complex,rain,medium,0.0,0.0,New Zealand,175.2362,-41.5877
+2016-05-11,debris_flow,downpour,medium,0.0,0.0,New Zealand,171.8985,-41.5833
+2010-06-22,landslide,unknown,medium,0.0,0.0,Australia,145.5991,-41.5681
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,174.1455,-41.5561
+2016-07-11,landslide,downpour,small,0.0,0.0,Australia,147.0876,-41.4003
+2011-05-26,landslide,downpour,medium,0.0,0.0,New Zealand,173.1976,-41.3913
+2010-05-16,landslide,downpour,medium,0.0,0.0,New Zealand,172.8235,-41.3874
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,174.6851,-41.3448
+2016-11-15,mudslide,rain,small,0.0,0.0,other/unknown,174.735459,-41.335096
+2010-06-06,landslide,downpour,medium,0.0,0.0,New Zealand,174.8229,-41.3318
+2017-03-11,landslide,downpour,small,0.0,0.0,other/unknown,174.831446,-41.329815
+2017-04-06,landslide,rain,small,0.0,0.0,other/unknown,174.7660073,-41.32446098
+2013-06-01,landslide,rain,medium,0.0,0.0,New Zealand,174.7681,-41.3233
+2017-04-05,landslide,rain,small,0.0,0.0,other/unknown,174.7789668,-41.31460954
+2011-08-17,landslide,unknown,small,0.0,0.0,New Zealand,174.798,-41.3078
+2013-09-25,mudslide,downpour,medium,0.0,0.0,New Zealand,174.0073,-41.2951
+2014-04-16,mudslide,rain,small,0.0,0.0,New Zealand,174.7855,-41.2941
+2013-11-28,landslide,downpour,medium,0.0,0.0,New Zealand,174.0184,-41.2869
+2015-08-10,landslide,rain,small,0.0,0.0,New Zealand,174.7533,-41.2865
+2016-11-12,landslide,rain,small,0.0,0.0,other/unknown,174.769403,-41.286411
+2011-05-27,complex,downpour,medium,0.0,0.0,New Zealand,173.287,-41.2737
+2013-07-21,landslide,earthquake,medium,0.0,0.0,New Zealand,174.7929,-41.2619
+2013-07-14,landslide,downpour,small,0.0,0.0,New Zealand,174.7133,-41.2614
+2017-04-17,rock_fall,rain,small,0.0,0.0,other/unknown,174.7697639,-41.25317096
+2017-07-10,landslide,unknown,small,0.0,0.0,other/unknown,174.8067213,-41.23655207
+2013-06-17,mudslide,downpour,small,0.0,0.0,New Zealand,173.363,-41.1869
+2016-10-03,landslide,downpour,small,0.0,0.0,Australia,145.9144,-41.1349
+2013-07-14,landslide,rain,medium,0.0,0.0,Australia,146.1258,-41.1274
+2013-08-05,landslide,downpour,medium,0.0,0.0,Australia,146.1066,-41.1212
+2017-04-22,landslide,rain,small,0.0,0.0,other/unknown,175.2949249,-41.10366565
+2009-12-01,landslide,downpour,small,0.0,0.0,New Zealand,175.1498,-41.0875
+2009-08-23,complex,downpour,small,0.0,0.0,Australia,145.9063,-41.0528
+2016-10-02,landslide,downpour,small,0.0,0.0,Australia,145.8772,-41.0443
+2013-08-13,mudslide,rain,small,0.0,0.0,Australia,145.8596,-41.0415
+2013-04-21,landslide,rain,medium,0.0,0.0,New Zealand,172.9486,-41.0387
+2013-06-16,mudslide,downpour,medium,1.0,0.0,New Zealand,173.0089,-41.0079
+2016-10-07,landslide,rain,medium,0.0,0.0,Australia,145.6226,-40.9345
+2016-07-15,landslide,rain,medium,0.0,0.0,Australia,145.6201,-40.9324
+2013-06-17,landslide,downpour,medium,0.0,0.0,New Zealand,172.7672,-40.8834
+2011-10-17,landslide,downpour,medium,0.0,0.0,New Zealand,175.8168,-40.3348
+2010-09-25,landslide,downpour,medium,0.0,0.0,New Zealand,175.8188,-40.3271
+2011-08-18,landslide,unknown,small,0.0,0.0,New Zealand,175.7944,-40.3175
+2017-04-24,landslide,rain,small,0.0,0.0,other/unknown,175.7762309,-40.31050874
+2011-04-26,landslide,downpour,medium,0.0,0.0,New Zealand,176.8242,-40.1685
+2011-04-27,landslide,downpour,medium,0.0,0.0,New Zealand,176.8426,-40.1513
+2013-07-14,landslide,downpour,small,0.0,0.0,New Zealand,176.257,-40.1119
+2011-04-26,landslide,downpour,medium,0.0,0.0,New Zealand,176.8655,-40.1019
+2011-04-27,landslide,downpour,medium,0.0,0.0,New Zealand,176.8769,-40.0582
+2011-04-26,landslide,downpour,medium,0.0,0.0,New Zealand,176.9248,-39.9455
+2015-08-13,landslide,rain,medium,0.0,0.0,New Zealand,175.3072,-39.9001
+2008-07-31,landslide,tropical_cyclone,medium,0.0,0.0,New Zealand,176.5992,-39.8931
+2017-01-18,landslide,no_apparent_trigger,medium,0.0,0.0,other/unknown,175.715291,-39.88172973
+2011-04-27,mudslide,earthquake,medium,0.0,0.0,New Zealand,176.989,-39.7902
+2011-04-26,landslide,downpour,small,0.0,0.0,New Zealand,177.0065,-39.6412
+2011-04-26,landslide,downpour,medium,0.0,0.0,New Zealand,176.9136,-39.484
+2015-08-31,landslide,unknown,medium,0.0,0.0,New Zealand,173.8561,-39.4585
+2011-04-27,landslide,downpour,medium,0.0,0.0,New Zealand,176.2391,-39.372
+2011-12-17,landslide,downpour,medium,3.0,0.0,New Zealand,173.9534,-39.1144
+2016-07-29,landslide,rain,medium,0.0,0.0,New Zealand,174.3119,-39.0675
+2011-03-22,landslide,downpour,medium,0.0,0.0,Australia,146.3552,-39.0468
+2011-04-26,landslide,downpour,medium,0.0,0.0,New Zealand,177.4136,-39.0412
+2011-04-26,landslide,downpour,medium,0.0,0.0,New Zealand,177.4174,-39.0336
+2010-12-28,complex,downpour,medium,0.0,0.0,New Zealand,174.5986,-38.8932
+2010-09-25,landslide,downpour,medium,0.0,0.0,New Zealand,175.2785,-38.8702
+2016-09-14,landslide,flooding,unknown,0.0,0.0,other/unknown,143.427857,-38.78159
+2016-09-18,landslide,rain,small,0.0,0.0,other/unknown,174.616841,-38.70743
+2013-11-28,landslide,downpour,medium,0.0,0.0,New Zealand,176.0774,-38.6984
+2011-01-12,landslide,downpour,medium,0.0,0.0,Australia,143.8478,-38.6763
+2014-09-19,landslide,unknown,small,0.0,0.0,New Zealand,178.0235,-38.6663
+2014-01-07,landslide,unknown,medium,0.0,0.0,New Zealand,178.0177,-38.6623
+2011-01-12,complex,downpour,medium,0.0,0.0,Australia,143.8912,-38.6378
+2011-01-12,landslide,downpour,medium,0.0,0.0,Australia,143.8911,-38.6358
+2016-09-14,landslide,downpour,medium,0.0,0.0,Australia,143.8953,-38.6326
+2016-07-13,landslide,rain,medium,0.0,0.0,Australia,143.8872,-38.6309
+2011-01-12,landslide,downpour,medium,0.0,0.0,Australia,143.9341,-38.5854
+2011-06-22,landslide,rain,large,0.0,0.0,Australia,146.196,-38.551
+2016-10-02,landslide,rain,small,0.0,0.0,Australia,143.0792,-38.3932
+2012-03-02,landslide,unknown,medium,0.0,0.0,New Zealand,177.3655,-38.2907
+2012-06-04,landslide,downpour,medium,0.0,0.0,Australia,145.014,-38.2662
+2010-07-08,landslide,downpour,medium,0.0,0.0,New Zealand,178.3197,-38.2134
+2010-04-25,rock_fall,downpour,medium,0.0,0.0,Australia,145.134,-38.1951
+2017-07-07,landslide,rain,large,0.0,0.0,other/unknown,177.2938257,-38.18869842
+2007-11-14,landslide,mining,large,0.0,0.0,Australia,146.392,-38.1718
+2008-12-13,mudslide,rain,small,0.0,0.0,Australia,144.35,-38.1583
+2015-02-24,landslide,rain,small,0.0,0.0,Australia,145.11,-38.1543
+2016-10-02,landslide,rain,small,0.0,0.0,Australia,143.4171,-38.0195
+2011-06-18,landslide,downpour,medium,1.0,0.0,New Zealand,177.0457,-37.9673
+2010-05-27,landslide,downpour,medium,0.0,0.0,New Zealand,177.0314,-37.9622
+2015-07-14,other,downpour,small,0.0,0.0,Australia,145.1147,-37.8558
+2016-11-11,rock_fall,rain,small,0.0,0.0,other/unknown,177.595887,-37.839925
+2016-10-02,landslide,rain,small,0.0,0.0,Australia,143.4041,-37.8145
+2011-09-29,landslide,downpour,medium,0.0,0.0,Australia,145.0218,-37.8023
+2012-06-04,landslide,downpour,medium,0.0,0.0,Australia,146.2243,-37.7846
+2011-01-14,mudslide,downpour,small,0.0,0.0,Australia,145.1344,-37.7383
+2017-04-06,landslide,tropical_cyclone,medium,0.0,0.0,other/unknown,176.2877483,-37.73674273
+2011-01-29,landslide,tropical_cyclone,medium,0.0,0.0,New Zealand,176.5249,-37.7239
+2017-04-06,mudslide,rain,medium,0.0,0.0,other/unknown,176.0447055,-37.63770028
+2017-04-12,landslide,continuous_rain,small,0.0,0.0,other/unknown,176.0458175,-37.63075881
+2011-05-11,landslide,downpour,medium,0.0,0.0,New Zealand,176.0454,-37.6304
+2010-01-01,landslide,downpour,medium,0.0,0.0,Australia,145.2842,-37.5947
+2016-10-02,landslide,downpour,medium,0.0,0.0,New Zealand,175.1538,-37.5825
+2010-01-01,landslide,downpour,medium,0.0,0.0,Australia,145.2737,-37.5803
+2017-03-06,mudslide,downpour,small,0.0,0.0,other/unknown,175.883064,-37.270678
+2017-03-12,landslide,downpour,large,0.0,0.0,other/unknown,175.069486,-37.267461
+2017-03-07,landslide,downpour,medium,0.0,0.0,other/unknown,175.848165,-37.193542
+2016-10-02,landslide,downpour,small,0.0,0.0,New Zealand,175.6348,-37.1577
+2010-09-04,landslide,downpour,medium,0.0,0.0,Australia,146.4399,-37.1475
+2017-03-07,landslide,downpour,small,0.0,0.0,other/unknown,175.84498,-37.122322
+2008-08-25,landslide,continuous_rain,medium,0.0,0.0,New Zealand,174.888,-36.9929
+2010-09-04,landslide,downpour,medium,0.0,0.0,Australia,147.1399,-36.9829
+2016-07-18,landslide,flooding,medium,0.0,0.0,Australia,148.3028,-36.9706
+2017-07-01,landslide,downpour,small,0.0,0.0,other/unknown,175.2344014,-36.95665535
+2013-05-15,landslide,unknown,medium,0.0,0.0,New Zealand,174.57,-36.9516
+2017-04-05,landslide,rain,medium,0.0,0.0,other/unknown,174.6494078,-36.95034055
+2017-03-11,landslide,downpour,small,0.0,0.0,other/unknown,174.648774,-36.943557
+2016-08-25,landslide,rain,small,0.0,0.0,other/unknown,174.57834,-36.933713
+2016-10-02,landslide,downpour,medium,0.0,0.0,New Zealand,175.4632,-36.9322
+2017-03-11,landslide,downpour,small,0.0,0.0,other/unknown,174.656243,-36.897886
+2013-08-23,landslide,rain,medium,0.0,0.0,Australia,147.2871,-36.8642
+2015-06-04,landslide,downpour,small,0.0,0.0,New Zealand,174.7821,-36.8631
+2017-04-05,landslide,rain,small,0.0,0.0,other/unknown,174.8388783,-36.84933303
+2017-04-18,landslide,tropical_cyclone,small,0.0,0.0,other/unknown,174.9031757,-36.84918114
+2010-09-04,landslide,downpour,medium,0.0,0.0,Australia,147.2468,-36.8415
+2017-03-11,landslide,downpour,small,0.0,0.0,other/unknown,175.084997,-36.798102
+2017-03-07,landslide,downpour,small,0.0,0.0,other/unknown,175.052231,-36.796594
+2011-01-29,complex,tropical_cyclone,medium,0.0,0.0,New Zealand,175.0955,-36.7929
+2017-03-07,landslide,downpour,small,0.0,0.0,other/unknown,175.016756,-36.784719
+2016-10-06,landslide,rain,medium,0.0,0.0,Australia,147.2151,-36.7654
+2010-07-14,landslide,downpour,medium,0.0,0.0,Australia,146.9226,-36.7109
+2012-03-01,complex,downpour,medium,0.0,0.0,Australia,146.8154,-36.7056
+2009-09-08,landslide,downpour,medium,1.0,0.0,Chile,-72.1287,-36.6203
+2015-12-08,debris_flow,rain,medium,0.0,0.0,Australia,146.8092,-36.6184
+2017-07-01,landslide,downpour,medium,0.0,0.0,other/unknown,174.7227399,-36.61481695
+2012-03-05,complex,unknown,medium,0.0,0.0,Australia,149.4481,-36.6008
+2016-01-04,landslide,flooding,large,0.0,0.0,Australia,149.5523,-36.5818
+2016-10-02,landslide,downpour,medium,0.0,0.0,New Zealand,174.7033,-36.5438
+2009-12-04,landslide,downpour,medium,0.0,0.0,New Zealand,174.6706,-36.5124
+2009-12-04,landslide,downpour,medium,0.0,0.0,New Zealand,174.6807,-36.5119
+2009-12-04,landslide,downpour,medium,0.0,0.0,New Zealand,174.6865,-36.5115
+2017-02-17,landslide,rain,small,0.0,0.0,other/unknown,173.7165281,-35.8166324
+2009-09-28,debris_flow,downpour,medium,0.0,0.0,New Zealand,174.3227,-35.7229
+2017-04-18,landslide,rain,small,0.0,0.0,other/unknown,174.5370837,-35.62543214
+2011-01-29,landslide,tropical_cyclone,medium,0.0,0.0,New Zealand,173.9379,-35.5035
+2013-06-26,landslide,downpour,medium,0.0,0.0,Australia,149.7484,-35.3515
+2011-01-29,landslide,tropical_cyclone,medium,0.0,0.0,New Zealand,174.0922,-35.3261
+2011-01-29,landslide,tropical_cyclone,medium,0.0,0.0,New Zealand,173.6835,-35.3258
+2016-10-10,landslide,unknown,medium,0.0,0.0,Australia,138.4697,-35.1941
+2008-02-23,landslide,rain,small,0.0,0.0,New Zealand,173.7463,-35.047
+2016-10-02,landslide,downpour,small,0.0,0.0,Australia,138.681,-34.9693
+2015-08-12,rock_fall,unknown,small,0.0,0.0,Australia,138.6814,-34.9538
+2010-06-03,rock_fall,downpour,small,0.0,0.0,Australia,150.8535,-34.4075
+2013-11-16,landslide,rain,medium,0.0,0.0,South Africa,18.8279,-34.2232
+2017-02-26,landslide,downpour,unknown,1.0,0.0,other/unknown,-70.737359,-34.21042
+2009-09-07,mudslide,downpour,medium,1.0,0.0,Chile,-71.0167,-34.2
+2017-01-06,landslide,downpour,small,0.0,0.0,other/unknown,150.7164558,-34.18516324
+2011-03-21,landslide,downpour,small,0.0,0.0,Australia,150.6131,-34.1564
+2014-06-18,landslide,rain,small,0.0,0.0,South Africa,18.4545,-34.1192
+2008-05-22,landslide,downpour,medium,3.0,0.0,Chile,-70.4516,-34.103
+2015-05-31,mudslide,downpour,small,0.0,0.0,South Africa,18.3534,-34.0947
+2013-08-28,rock_fall,downpour,small,0.0,0.0,South Africa,18.3653,-34.0746
+2017-06-19,rock_fall,rain,small,0.0,0.0,other/unknown,18.36915952,-34.06995509
+2013-11-16,mudslide,rain,medium,0.0,0.0,South Africa,18.3629,-34.0496
+2011-06-15,mudslide,downpour,small,0.0,0.0,South Africa,18.3497,-34.0298
+2013-11-16,rock_fall,rain,small,0.0,0.0,South Africa,18.3715,-33.9738
+2013-11-16,mudslide,other,medium,0.0,0.0,South Africa,18.3716,-33.9711
+2013-11-16,landslide,rain,small,0.0,0.0,South Africa,18.377,-33.9595
+2016-06-05,rock_fall,downpour,medium,0.0,0.0,Australia,151.2694,-33.9096
+2013-08-28,mudslide,rain,small,0.0,0.0,South Africa,19.1565,-33.9038
+2011-07-22,landslide,downpour,medium,0.0,0.0,Australia,151.2099,-33.859
+2013-06-30,landslide,rain,small,0.0,0.0,Australia,151.0075,-33.8234
+2012-02-02,mudslide,downpour,small,0.0,0.0,Australia,151.1116,-33.7344
+2012-02-10,landslide,downpour,medium,0.0,0.0,Australia,150.314,-33.7341
+2017-02-26,landslide,downpour,unknown,3.0,0.0,other/unknown,-70.649246,-33.718972
+2012-03-02,landslide,unknown,small,0.0,0.0,Australia,150.3299,-33.7117
+2014-08-18,landslide,downpour,small,0.0,0.0,Australia,151.3013,-33.7106
+2010-02-04,complex,downpour,small,0.0,0.0,Australia,150.3746,-33.7099
+2009-09-06,mudslide,downpour,medium,2.0,0.0,Chile,-70.5833,-33.3667
+2009-09-08,landslide,downpour,medium,0.0,0.0,Chile,-70.5167,-33.35
+2012-06-17,landslide,downpour,large,0.0,0.0,Chile,-70.2492,-33.2968
+2012-01-15,landslide,downpour,medium,1.0,0.0,Chile,-70.2686,-33.2961
+2016-06-21,landslide,unknown,medium,0.0,0.0,Australia,151.5678,-33.2792
+2008-07-06,mudslide,downpour,medium,0.0,0.0,South Africa,18.66,-33.15
+2014-03-12,mudslide,downpour,small,0.0,0.0,Australia,151.5824,-33.0644
+2014-08-06,mudslide,continuous_rain,small,0.0,0.0,Chile,-71.5376,-32.9747
+2011-02-11,landslide,downpour,medium,0.0,0.0,Chile,-70.2129,-32.9563
+2009-12-17,mudslide,downpour,medium,1.0,0.0,Argentina,-68.844,-32.8902
+2013-02-13,landslide,rain,medium,0.0,0.0,Argentina,-69.9146,-32.8224
+2008-09-10,rock_fall,continuous_rain,medium,0.0,0.0,Australia,149.8098,-32.8091
+2016-01-25,rock_fall,unknown,medium,0.0,0.0,Argentina,-70.012,-32.6532
+2010-03-22,mudslide,downpour,medium,0.0,0.0,Australia,115.8468,-31.9554
+2017-03-19,landslide,rain,small,0.0,0.0,other/unknown,152.554007,-30.829127
+2015-09-16,rock_fall,earthquake,medium,1.0,0.0,Chile,-70.9183,-30.5931
+2008-06-20,mudslide,rain,medium,2.0,0.0,South Africa,30.6551,-30.4489
+2008-06-18,complex,rain,medium,1.0,0.0,South Africa,30.6667,-30.3167
+2012-09-06,landslide,downpour,medium,0.0,0.0,South Africa,30.8833,-30.05
+2016-05-08,landslide,downpour,small,1.0,0.0,South Africa,30.9036,-29.9584
+2009-02-06,mudslide,rain,medium,3.0,0.0,South Africa,30.866,-29.954
+2012-09-06,mudslide,downpour,medium,0.0,0.0,South Africa,30.9419,-29.9135
+2016-07-25,mudslide,downpour,medium,1.0,0.0,South Africa,30.9642,-29.86
+2012-03-04,mudslide,downpour,medium,0.0,0.0,South Africa,30.978,-29.8124
+2012-09-06,mudslide,downpour,medium,0.0,0.0,South Africa,30.8331,-29.7826
+2013-03-03,landslide,rain,medium,0.0,0.0,Australia,151.1112,-29.7736
+2011-04-23,mudslide,downpour,medium,3.0,0.0,Brazil,-51.1339,-29.6634
+2011-04-23,mudslide,downpour,medium,7.0,0.0,Brazil,-50.7578,-29.5706
+2016-10-31,mudslide,leaking_pipe,small,0.0,0.0,other/unknown,30.280797,-29.542639
+2009-12-04,mudslide,downpour,medium,8.0,0.0,Brazil,-53.3906,-29.5345
+2010-10-08,landslide,rain,medium,0.0,0.0,Australia,152.3913,-29.4985
+2010-10-10,landslide,downpour,medium,0.0,0.0,Australia,152.446,-29.4884
+2013-11-11,landslide,downpour,medium,2.0,1.0,Brazil,-51.3442,-29.4878
+2017-04-04,landslide,tropical_cyclone,small,0.0,0.0,other/unknown,153.143192,-29.4722515
+2017-03-20,landslide,continuous_rain,small,0.0,0.0,other/unknown,152.3514367,-29.4720726
+2013-12-10,landslide,downpour,small,0.0,0.0,Brazil,-51.346,-29.4478
+2016-05-27,mudslide,downpour,small,0.0,0.0,Australia,151.8718,-28.8648
+2017-02-25,landslide,unknown,small,0.0,0.0,other/unknown,153.429014,-28.708321
+2011-01-09,landslide,downpour,medium,0.0,0.0,Australia,153.277,-28.6604
+2012-01-27,landslide,downpour,medium,0.0,0.0,Australia,153.3923,-28.5358
+2014-01-24,mudslide,downpour,large,3.0,0.0,Argentina,-65.8667,-28.2167
+2010-12-04,landslide,downpour,medium,0.0,0.0,Australia,153.2893,-28.131
+2017-03-29,landslide,continuous_rain,small,0.0,0.0,other/unknown,153.1081019,-28.08114457
+2008-02-03,landslide,rain,medium,0.0,0.0,Australia,153.2298,-28.0667
+2011-01-21,landslide,downpour,medium,0.0,0.0,Australia,152.3855,-28.0605
+2011-01-07,landslide,downpour,medium,1.0,0.0,Australia,153.2456,-28.0481
+2011-01-11,landslide,downpour,medium,0.0,0.0,Australia,151.9802,-27.6041
+2013-09-16,landslide,downpour,medium,0.0,0.0,Australia,151.9941,-27.5685
+2010-03-01,mudslide,downpour,medium,0.0,0.0,Australia,151.9979,-27.5659
+2011-01-11,landslide,downpour,small,0.0,0.0,Australia,152.6019,-27.4839
+2011-01-10,mudslide,downpour,medium,0.0,0.0,Australia,152.0525,-27.4601
+2011-01-10,landslide,downpour,small,0.0,0.0,Australia,152.7853,-27.3865
+2011-01-11,landslide,downpour,medium,0.0,0.0,Australia,152.8211,-27.3776
+2009-09-09,landslide,downpour,medium,0.0,0.0,Brazil,-49.3653,-26.9286
+2011-01-11,landslide,downpour,medium,0.0,0.0,Australia,152.7436,-26.916
+2008-11-24,landslide,continuous_rain,very_large,109.0,0.0,Brazil,-48.65,-26.8833
+2008-06-06,complex,rain,small,0.0,0.0,Australia,152.8915,-26.8494
+2015-02-21,mudslide,downpour,small,0.0,0.0,Australia,153.0551,-26.6913
+2010-10-08,landslide,downpour,small,0.0,0.0,Australia,153.0265,-26.6144
+2009-09-08,complex,downpour,medium,4.0,0.0,Brazil,-53.5833,-26.5833
+2010-10-08,landslide,downpour,small,0.0,0.0,Australia,153.0871,-26.3974
+2010-10-10,landslide,downpour,small,0.0,0.0,Australia,153.0898,-26.3938
+2012-01-17,landslide,downpour,medium,1.0,0.0,Swaziland,31.141,-26.3402
+2016-07-25,landslide,earthquake,medium,0.0,0.0,Chile,-69.6364,-26.2396
+2015-09-05,landslide,continuous_rain,small,0.0,0.0,South Africa,28.0851,-25.8451
+2011-03-09,landslide,downpour,medium,0.0,0.0,Brazil,-48.7906,-25.572
+2013-03-28,landslide,rain,small,0.0,0.0,Australia,152.9012,-25.4003
+2013-08-23,landslide,downpour,small,0.0,0.0,Australia,152.9012,-25.4003
+2013-08-06,landslide,mining,small,0.0,0.0,Paraguay,-57.4476,-25.3689
+2011-03-09,landslide,downpour,medium,3.0,0.0,Brazil,-51.5288,-25.0209
+2017-01-10,mudslide,downpour,very_large,2.0,5.0,other/unknown,-65.467344,-23.916049
+2017-01-10,landslide,rain,large,2.0,5.0,other/unknown,-65.46576609,-23.91300145
+2010-01-21,landslide,downpour,medium,2.0,0.0,Brazil,-46.4137,-23.7141
+2011-01-06,mudslide,downpour,medium,2.0,0.0,Brazil,-46.4614,-23.6687
+2010-01-21,landslide,downpour,medium,2.0,0.0,Brazil,-46.4617,-23.6682
+2009-09-08,mudslide,downpour,medium,2.0,0.0,Brazil,-46.4273239,-23.6419326
+2010-01-21,landslide,downpour,medium,5.0,0.0,Brazil,-46.6288398,-23.54612792
+2015-03-07,landslide,downpour,medium,3.0,0.0,Brazil,-46.923,-23.4499
+2009-12-04,mudslide,downpour,medium,6.0,0.0,Brazil,-46.71737124,-23.42446618
+2011-01-12,mudslide,downpour,large,13.0,0.0,Brazil,-46.6574,-23.4242
+2016-03-10,mudslide,downpour,medium,4.0,7.0,Brazil,-46.5551,-23.3025
+2010-01-28,mudslide,downpour,medium,3.0,0.0,Brazil,-46.7433,-23.2801
+2016-03-10,mudslide,downpour,medium,9.0,12.0,Brazil,-46.7392,-23.2789
+2007-01-05,landslide,rain,medium,1.0,0.0,Brazil,-46.6136,-23.2311
+2011-01-06,mudslide,downpour,medium,4.0,0.0,Brazil,-46.8844,-23.1864
+2010-11-24,rock_fall,downpour,medium,0.0,0.0,Australia,150.748,-23.1812
+2010-01-01,landslide,downpour,very_large,35.0,0.0,Brazil,-44.248,-23.1077
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.5001,-23.0392
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.4897,-23.0291
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.489,-23.0289
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.4788,-23.0189
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2915,-23.0145
+2010-01-01,mudslide,downpour,large,22.0,28.0,Brazil,-44.32249842,-23.01374445
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.288,-23.0099
+2010-01-01,landslide,downpour,large,12.0,0.0,Brazil,-44.3228,-23.0085
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.527,-23.0085
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2747,-23.0011
+2009-11-16,mudslide,downpour,medium,3.0,0.0,Brazil,-43.24,-23.0
+2010-04-06,mudslide,downpour,medium,2.0,0.0,Brazil,-43.2524,-22.9928
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2542,-22.9925
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.697,-22.9849
+2010-04-06,landslide,downpour,small,0.0,0.0,Brazil,-43.1976,-22.983
+2010-04-06,landslide,downpour,small,0.0,0.0,Brazil,-43.2987,-22.9824
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2328,-22.9801
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2324,-22.9778
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2903,-22.9766
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2345,-22.9654
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1992,-22.9652
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.4762,-22.9638
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0252,-22.9631
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1737,-22.962
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1773,-22.9619
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.206,-22.9593
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1992,-22.9577
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2014,-22.9553
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2631,-22.9529
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2357,-22.9509
+2010-04-06,landslide,downpour,medium,10.0,0.0,Brazil,-43.2063,-22.9493
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2103,-22.9463
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2167,-22.9458
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.3223,-22.945
+2009-12-31,mudslide,downpour,medium,5.0,0.0,Brazil,-43.3581,-22.9428
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1861,-22.9428
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2491,-22.9417
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1943,-22.9399
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2076,-22.9397
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2421,-22.9376
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-42.4916,-22.937
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2347,-22.9363
+2010-04-06,mudslide,downpour,medium,0.0,0.0,Brazil,-43.031,-22.9337
+2010-04-06,mudslide,downpour,medium,0.0,0.0,Brazil,-43.1172,-22.9337
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1854,-22.9312
+2010-04-06,mudslide,downpour,large,25.0,0.0,Brazil,-43.2075,-22.9312
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.184,-22.9259
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2854,-22.9255
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.3147,-22.9251
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1993,-22.9247
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0907,-22.923
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.3057,-22.9229
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.032,-22.9223
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0878,-22.9214
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0732,-22.9196
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0521,-22.9188
+2009-12-31,mudslide,downpour,medium,13.0,0.0,Brazil,-43.2049,-22.9158
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0715,-22.9153
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1067,-22.9149
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1109,-22.9149
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0159,-22.9139
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2728,-22.9138
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-42.9831,-22.9135
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.3857,-22.9131
+2016-11-11,landslide,rain,medium,0.0,0.0,other/unknown,-44.302371,-22.912451
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0744,-22.9117
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.067,-22.9113
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0503,-22.9112
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0728,-22.9111
+2010-04-06,landslide,downpour,small,0.0,0.0,Brazil,-43.09175971,-22.91017122
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.09416702,-22.91010027
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0868,-22.9089
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0842,-22.9073
+2010-04-06,landslide,downpour,small,0.0,0.0,Brazil,-43.1259,-22.9066
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1193,-22.904
+2010-04-06,complex,downpour,very_large,63.0,0.0,Brazil,-43.2096,-22.9035
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0448,-22.9035
+2010-04-06,mudslide,downpour,medium,0.0,0.0,Brazil,-43.2394,-22.9033
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1201,-22.9033
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-42.9548,-22.9012
+2013-12-11,landslide,downpour,medium,0.0,2.0,Brazil,-43.4438,-22.9011
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1151,-22.9008
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0784,-22.9006
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1227,-22.8999
+2010-04-06,mudslide,downpour,medium,0.0,0.0,Brazil,-43.0885,-22.8988
+2010-04-06,landslide,downpour,medium,1.0,0.0,Brazil,-43.1175,-22.8988
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.4272,-22.8961
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1127,-22.8948
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1081,-22.8943
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1124,-22.8929
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0987,-22.8926
+2010-04-05,landslide,downpour,medium,0.0,0.0,Brazil,-43.07409842,-22.89234445
+2010-04-07,mudslide,downpour,very_large,196.0,0.0,Brazil,-43.0882,-22.8919
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.097,-22.8901
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0731,-22.8888
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0783,-22.8887
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-42.9878,-22.8872
+2010-04-06,mudslide,downpour,medium,0.0,0.0,Brazil,-43.0571,-22.887
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0631,-22.8852
+2011-04-25,landslide,downpour,medium,0.0,0.0,Brazil,-43.3548,-22.8811
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1293,-22.8796
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0455,-22.8781
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.103,-22.878
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0978,-22.8776
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0967,-22.8766
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0842,-22.8754
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1014,-22.8733
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2742,-22.8549
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0921,-22.8547
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0848,-22.8547
+2007-10-28,landslide,rain,medium,3.0,0.0,Brazil,-45.2007,-22.8287
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.0221,-22.8279
+2010-04-06,mudslide,downpour,large,16.0,0.0,Brazil,-43.0544,-22.8271
+2013-12-13,riverbank_collapse,downpour,small,0.0,0.0,Brazil,-43.6221,-22.8267
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1809,-22.8222
+2013-12-10,landslide,downpour,medium,0.0,0.0,Brazil,-43.3991,-22.8213
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1789,-22.82
+2010-04-06,landslide,downpour,small,0.0,0.0,Brazil,-43.1789,-22.82
+2010-04-06,mudslide,downpour,medium,1.0,0.0,Brazil,-43.4147,-22.8086
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1835,-22.808
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.108,-22.7694
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.1093,-22.7594
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.4887,-22.7483
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-44.1285,-22.7474
+2011-07-07,landslide,unknown,medium,2.0,0.0,Brazil,-46.901,-22.7418
+2010-04-06,mudslide,downpour,medium,1.0,0.0,Brazil,-43.0398,-22.6567
+2010-04-06,mudslide,downpour,medium,1.0,0.0,Brazil,-43.7034,-22.6053
+2011-03-15,mudslide,downpour,small,0.0,0.0,Namibia,17.1399,-22.5814
+2011-03-19,mudslide,downpour,medium,0.0,0.0,Namibia,17.1689,-22.5657
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.6897,-22.5527
+2013-12-11,landslide,downpour,small,0.0,0.0,Brazil,-43.2087,-22.5444
+2016-11-11,landslide,rain,medium,2.0,0.0,other/unknown,-43.212778,-22.527652
+2010-04-06,landslide,downpour,medium,0.0,0.0,Brazil,-43.2212,-22.5232
+2013-03-18,landslide,rain,medium,31.0,0.0,Brazil,-43.2192,-22.5221
+2009-02-09,mudslide,downpour,medium,0.0,0.0,Argentina,-63.8,-22.52
+2013-12-06,landslide,downpour,medium,0.0,1.0,Brazil,-43.2003,-22.5195
+2010-04-06,mudslide,downpour,medium,1.0,0.0,Brazil,-43.1823,-22.5046
+2011-01-12,mudslide,downpour,large,56.0,0.0,Brazil,-43.2172,-22.5037
+2009-10-10,mudslide,downpour,medium,4.0,0.0,Brazil,-43.1856,-22.4912
+2011-01-03,mudslide,downpour,medium,3.0,0.0,Brazil,-43.1828,-22.4891
+2011-01-16,mudslide,downpour,medium,3.0,0.0,Brazil,-43.1852,-22.4804
+2011-01-12,mudslide,downpour,very_large,424.0,0.0,Brazil,-42.9664,-22.4123
+2012-04-06,mudslide,downpour,large,5.0,0.0,Brazil,-42.9705,-22.4115
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-43.0304,-22.411
+2011-01-12,complex,downpour,large,0.0,0.0,Brazil,-43.0072,-22.3998
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-42.5823,-22.398
+2011-01-12,landslide,downpour,large,50.0,0.0,Brazil,-43.0787,-22.3838
+2011-01-12,mudslide,downpour,large,10.0,0.0,Brazil,-42.994,-22.3787
+2008-02-03,landslide,rain,medium,9.0,0.0,Brazil,-43.1314,-22.3758
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-42.9772,-22.3701
+2009-09-18,mudslide,downpour,medium,2.0,0.0,Argentina,-65.1487,-22.3696
+2016-05-13,other,unknown,medium,7.0,0.0,Madagascar,47.8534,-22.3386
+2011-01-12,landslide,downpour,very_large,0.0,0.0,Brazil,-43.0117,-22.3278
+2011-01-12,mudslide,downpour,medium,0.0,0.0,Brazil,-42.8167,-22.3165
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-42.6833,-22.2833
+2014-01-25,landslide,downpour,large,2.0,0.0,Bolivia,-64.2333,-22.2832
+2007-01-05,landslide,rain,large,7.0,0.0,Brazil,-42.53636205,-22.28234635
+2012-11-13,landslide,rain,large,0.0,0.0,Brazil,-42.5329,-22.2815
+2011-01-12,mudslide,downpour,very_large,378.0,0.0,Brazil,-42.53712263,-22.26551841
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-42.5733,-22.2581
+2011-01-12,landslide,downpour,medium,1.0,0.0,Brazil,-42.65,-22.2492
+2011-01-12,mudslide,downpour,medium,0.0,0.0,Brazil,-42.5428,-22.2486
+2011-01-12,mudslide,downpour,very_large,0.0,0.0,Brazil,-42.6018,-22.2331
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-43.1105,-22.233
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-42.7169,-22.2173
+2011-01-12,landslide,downpour,medium,0.0,0.0,Brazil,-42.4268,-22.1546
+2011-01-12,mudslide,downpour,large,19.0,0.0,Brazil,-42.6935,-22.0811
+2015-08-10,mudslide,downpour,medium,3.0,0.0,Chile,-70.1827,-22.0734
+2013-08-25,mudslide,downpour,medium,0.0,0.0,Chile,-70.1833,-22.0575
+2007-01-05,landslide,rain,medium,2.0,0.0,Brazil,-42.6734,-22.0452
+2012-01-09,mudslide,downpour,large,22.0,0.0,Brazil,-42.9003,-21.9935
+2013-12-25,mudslide,downpour,medium,1.0,1.0,Brazil,-43.3987,-21.7303
+2017-03-30,landslide,tropical_cyclone,small,0.0,0.0,other/unknown,148.9364121,-21.31845152
+2016-11-22,landslide,rain,large,4.0,6.0,other/unknown,165.453367,-21.306243
+2012-02-27,mudslide,tropical_cyclone,very_large,73.0,0.0,Madagascar,47.6346,-21.3039
+2010-03-15,complex,tropical_cyclone,large,8.0,0.0,Madagascar,48.0043,-21.1806
+2010-12-25,landslide,downpour,medium,0.0,0.0,Australia,148.4943,-21.1313
+2011-03-29,landslide,downpour,small,0.0,0.0,Australia,148.4224,-21.1278
+2012-03-19,landslide,unknown,medium,0.0,0.0,Australia,148.9689,-20.9733
+2017-01-31,landslide,rain,large,0.0,0.0,other/unknown,29.26724852,-20.54287599
+2013-12-22,landslide,downpour,large,0.0,0.0,Brazil,-40.4598,-20.4337
+2015-11-01,mudslide,dam_embankment_collapse,very_large,17.0,50.0,Brazil,-43.465,-20.3996
+2012-01-03,mudslide,downpour,medium,1.0,0.0,Brazil,-43.499,-20.3837
+2017-02-09,mudslide,mining,very_large,13.0,0.0,other/unknown,-43.42891666,-20.23931048
+2017-02-27,landslide,downpour,unknown,1.0,0.0,other/unknown,31.750982,-20.223333
+2015-06-23,landslide,continuous_rain,small,0.0,0.0,Mauritius,57.5716,-20.1999
+2011-03-30,landslide,downpour,medium,0.0,0.0,Australia,148.4775479,-20.07976547
+2011-03-29,landslide,continuous_rain,medium,0.0,0.0,Australia,148.4762878,-20.07651697
+2010-12-30,mudslide,downpour,medium,3.0,0.0,Brazil,-41.1197,-20.073
+2012-01-02,mudslide,downpour,medium,2.0,0.0,Brazil,-43.9107,-19.944
+2008-12-16,mudslide,downpour,medium,7.0,0.0,Brazil,-43.9333,-19.9167
+2013-12-21,landslide,rain,medium,0.0,0.0,Brazil,-40.8424,-19.6528
+2013-12-21,landslide,rain,medium,1.0,0.0,Brazil,-40.8262,-19.6168
+2013-12-21,landslide,rain,large,0.0,0.0,Brazil,-40.949,-19.5378
+2014-02-09,mudslide,downpour,large,4.0,0.0,Bolivia,-65.948,-19.366
+2017-03-07,landslide,downpour,large,16.0,0.0,other/unknown,48.977796,-19.330294
+2010-11-16,landslide,downpour,medium,0.0,0.0,Fiji,178.2123,-19.0587
+2012-02-18,landslide,tropical_cyclone,medium,0.0,0.0,Madagascar,48.3774,-18.9481
+2015-01-14,landslide,downpour,medium,3.0,4.0,Madagascar,47.5505,-18.9191
+2015-01-29,landslide,rain,medium,8.0,0.0,Madagascar,47.4708,-18.8468
+2013-12-17,landslide,downpour,medium,0.0,0.0,Brazil,-42.3753,-18.7913
+2013-12-17,landslide,downpour,medium,6.0,0.0,Brazil,-42.3753,-18.7913
+2010-12-30,landslide,downpour,medium,7.0,0.0,Brazil,-40.9752,-18.7677
+2009-04-06,mudslide,downpour,medium,5.0,0.0,Madagascar,47.3167,-18.5333
+2011-02-03,landslide,tropical_cyclone,medium,0.0,0.0,Australia,146.0225,-18.2883
+2012-01-24,landslide,downpour,medium,0.0,0.0,Fiji,177.5031,-18.1388
+2016-10-09,landslide,rain,medium,0.0,0.0,Fiji,178.4267,-18.1347
+2010-05-15,landslide,downpour,medium,0.0,0.0,Fiji,178.4448,-18.1284
+2016-12-16,landslide,rain,medium,0.0,0.0,other/unknown,178.36266,-18.115639
+2010-03-21,landslide,rain,small,0.0,0.0,Fiji,178.438,-18.109
+2016-12-15,landslide,rain,medium,0.0,0.0,other/unknown,178.440048,-18.095193
+2008-05-20,mudslide,rain,medium,0.0,0.0,Fiji,178.3623,-18.0903
+2017-01-05,landslide,downpour,small,0.0,0.0,other/unknown,178.4846638,-18.0901755
+2015-01-04,landslide,continuous_rain,small,0.0,0.0,Fiji,178.068,-18.089
+2012-01-24,landslide,downpour,medium,0.0,0.0,Fiji,177.3814,-18.0873
+2017-01-05,landslide,downpour,small,0.0,0.0,other/unknown,178.4603002,-18.08435942
+2014-12-21,landslide,unknown,small,0.0,0.0,Fiji,178.5112,-18.0608
+2010-10-07,landslide,downpour,medium,0.0,0.0,Fiji,178.1266,-18.0327
+2013-01-08,landslide,rain,medium,0.0,0.0,Fiji,178.515,-18.0208
+2007-02-11,landslide,rain,medium,0.0,0.0,Fiji,177.55,-18.0167
+2016-12-30,landslide,downpour,large,0.0,0.0,other/unknown,179.3048665,-18.00324633
+2014-12-28,landslide,downpour,medium,0.0,0.0,Fiji,178.5358,-17.9984
+2016-04-03,landslide,downpour,small,0.0,0.0,Fiji,178.3964727,-17.98741703
+2016-04-05,landslide,downpour,small,0.0,0.0,Fiji,178.5253,-17.9785
+2016-12-31,landslide,tropical_cyclone,small,0.0,0.0,other/unknown,178.5280707,-17.96882023
+2008-04-20,landslide,rain,small,0.0,0.0,Fiji,178.4367,-17.9665
+2010-01-20,landslide,downpour,medium,0.0,0.0,Bolivia,-65.4614,-17.9642
+2016-12-16,landslide,continuous_rain,medium,0.0,0.0,other/unknown,178.371324,-17.942215
+2012-04-01,landslide,downpour,medium,0.0,0.0,Fiji,178.2452,-17.9392
+2011-06-27,landslide,downpour,large,0.0,0.0,Fiji,178.4779,-17.8893
+2016-12-16,mudslide,rain,medium,0.0,0.0,other/unknown,178.536335,-17.861049
+2010-03-02,landslide,downpour,small,0.0,0.0,Fiji,177.9985,-17.8045
+2012-03-31,landslide,downpour,medium,0.0,0.0,Fiji,177.4476,-17.7849
+2014-12-06,landslide,downpour,medium,0.0,0.0,Fiji,178.4944,-17.7558
+2012-01-24,landslide,downpour,medium,0.0,0.0,Fiji,177.4567,-17.7318
+2014-02-28,landslide,unknown,unknown,0.0,0.0,Fiji,178.2678,-17.6231
+2011-01-13,mudslide,downpour,small,0.0,0.0,Fiji,177.7137,-17.6195
+2017-01-22,landslide,downpour,large,0.0,3.0,other/unknown,-149.581559,-17.57752959
+2010-04-08,landslide,downpour,medium,0.0,0.0,Fiji,178.2168,-17.5608
+2007-05-05,landslide,rain,medium,0.0,0.0,Fiji,178.25,-17.56
+2012-01-25,landslide,downpour,medium,4.0,0.0,Fiji,177.6328,-17.5513
+2017-02-17,landslide,downpour,large,0.0,0.0,other/unknown,178.211023,-17.50987
+2012-01-30,landslide,downpour,large,0.0,0.0,Fiji,177.8515,-17.5018
+2016-01-11,landslide,unknown,medium,0.0,0.0,Bolivia,-66.1614,-17.3945
+2010-11-16,debris_flow,downpour,small,0.0,0.0,Fiji,179.4104,-17.3137
+2016-12-15,landslide,continuous_rain,small,0.0,0.0,other/unknown,179.402164,-17.311122
+2014-02-08,landslide,downpour,large,14.0,0.0,Bolivia,-66.532,-17.2353
+2014-11-04,landslide,unknown,medium,0.0,0.0,Bolivia,-67.6635,-17.0664
+2010-10-19,mudslide,downpour,medium,0.0,0.0,Australia,145.6937,-17.0661
+2008-03-05,landslide,rain,small,0.0,0.0,Australia,145.7231,-16.9135
+2010-03-26,mudslide,downpour,medium,0.0,0.0,Australia,145.6841,-16.889
+2009-02-08,mudslide,downpour,medium,0.0,0.0,Australia,145.6342,-16.8214
+2008-03-05,landslide,rain,small,0.0,0.0,Australia,145.6331,-16.8164
+2016-12-17,landslide,rain,small,0.0,0.0,other/unknown,-179.8647,-16.811107
+2016-12-18,mudslide,tropical_cyclone,medium,0.0,0.0,other/unknown,178.321201,-16.805174
+2016-12-17,landslide,continuous_rain,large,0.0,0.0,other/unknown,-179.745445,-16.77627
+2010-11-26,complex,downpour,medium,0.0,0.0,Fiji,179.3997,-16.7324
+2012-03-19,landslide,downpour,medium,0.0,0.0,Australia,145.6506,-16.73
+2012-04-01,landslide,downpour,medium,0.0,0.0,Fiji,178.7081,-16.6872
+2012-01-22,landslide,rain,medium,0.0,0.0,Fiji,179.0421,-16.6037
+2007-04-05,landslide,tropical_cyclone,medium,0.0,0.0,Fiji,179.4221,-16.5834
+2012-05-25,landslide,rain,medium,0.0,0.0,Australia,145.3773,-16.5539
+2017-02-15,landslide,unknown,large,0.0,1.0,other/unknown,-68.06892167,-16.54900909
+2016-12-18,landslide,rain,small,0.0,0.0,other/unknown,179.991364,-16.53006
+2011-02-26,landslide,downpour,large,0.0,0.0,Bolivia,-68.0861,-16.5293
+2010-01-29,landslide,downpour,large,9.0,0.0,Bolivia,-68.1157,-16.5278
+2017-01-06,mudslide,tropical_cyclone,medium,0.0,0.0,other/unknown,-179.9807656,-16.4992247
+2009-02-18,mudslide,unknown,medium,0.0,0.0,Bolivia,-68.1462,-16.499
+2013-10-24,landslide,rain,medium,0.0,0.0,Vanuatu,168.2362,-16.4724
+2008-01-17,landslide,rain,medium,0.0,0.0,Fiji,179.3942,-16.4652
+2007-12-10,landslide,tropical_cyclone,medium,0.0,0.0,Fiji,179.366,-16.433
+2010-03-11,mudslide,downpour,medium,7.0,0.0,Bolivia,-67.8317,-16.4158
+2017-01-27,mudslide,downpour,very_large,3.0,0.0,other/unknown,-73.26556208,-16.38701661
+2009-03-07,mudslide,rain,medium,0.0,0.0,Peru,-71.4842,-16.3556
+2017-02-27,landslide,unknown,unknown,0.0,0.0,other/unknown,145.434199,-16.242627
+2013-09-24,mudslide,rain,medium,21.0,27.0,Bolivia,-67.5836,-15.999
+2012-03-09,mudslide,downpour,medium,3.0,0.0,Peru,-73.8721,-15.746
+2014-12-10,debris_flow,snowfall_snowmelt,medium,0.0,0.0,Peru,-71.8688,-15.6929
+2017-01-16,landslide,downpour,medium,3.0,3.0,other/unknown,-74.6291448,-15.43182932
+2009-12-29,mudslide,downpour,medium,0.0,0.0,Peru,-71.489,-15.345
+2014-03-15,landslide,tropical_cyclone,large,3.0,0.0,Vanuatu,166.9182,-15.3004
+2010-02-28,mudslide,downpour,medium,6.0,0.0,Peru,-72.8973,-15.2086
+2009-12-28,landslide,downpour,medium,0.0,0.0,American Samoa,-170.7998,-14.3322
+2017-05-11,landslide,downpour,medium,0.0,0.0,other/unknown,-170.8105958,-14.30652636
+2009-12-28,landslide,downpour,medium,0.0,0.0,American Samoa,-170.6777,-14.2956
+2009-12-29,landslide,downpour,medium,0.0,0.0,American Samoa,-170.5825,-14.2781
+2009-12-28,landslide,downpour,medium,0.0,0.0,American Samoa,-170.651,-14.2642
+2012-12-21,landslide,rain,medium,0.0,0.0,American Samoa,-170.6613,-14.2521
+2010-03-26,landslide,downpour,medium,5.0,0.0,Peru,-70.1217,-14.1232
+2011-02-15,landslide,downpour,medium,5.0,0.0,Peru,-72.9562,-14.0731
+2008-10-04,mudslide,downpour,medium,7.0,0.0,Peru,-70.4,-14.0
+2009-03-02,landslide,downpour,large,10.0,0.0,Peru,-70.233,-13.917
+2011-02-15,landslide,downpour,medium,0.0,0.0,Peru,-70.2659,-13.8158
+2017-01-24,mudslide,downpour,medium,0.0,0.0,other/unknown,-76.20330571,-13.71153138
+2012-03-18,mudslide,downpour,medium,0.0,0.0,Peru,-72.8718,-13.6291
+2012-03-18,mudslide,downpour,medium,0.0,0.0,Peru,-73.7262,-13.5168
+2011-04-03,mudslide,downpour,medium,9.0,0.0,Peru,-71.9911,-13.5138
+2014-01-10,rock_fall,rain,medium,4.0,0.0,Peru,-71.7832,-13.4862
+2010-02-09,mudslide,downpour,medium,0.0,0.0,Peru,-72.25984911,-13.44799948
+2010-02-06,mudslide,downpour,medium,0.0,0.0,Peru,-72.26000997,-13.4459682
+2010-01-23,mudslide,downpour,medium,2.0,0.0,Peru,-72.0826,-13.3342
+2010-07-02,mudslide,rain,medium,0.0,0.0,Peru,-72.2308,-13.3219
+2010-10-17,mudslide,downpour,medium,0.0,0.0,Peru,-72.1167,-13.3042
+2010-01-23,mudslide,downpour,medium,2.0,0.0,Peru,-72.1137,-13.2873
+2010-01-23,mudslide,downpour,medium,2.0,0.0,Peru,-72.3902,-13.2122
+2017-03-24,mudslide,downpour,medium,0.0,0.0,other/unknown,-72.523361,-13.188028
+2010-01-23,landslide,downpour,medium,0.0,0.0,Peru,-72.5273,-13.1809
+2016-04-23,mudslide,unknown,medium,0.0,0.0,Peru,-72.53217241,-13.1592608
+2009-12-17,mudslide,downpour,large,10.0,0.0,Peru,-74.2239,-13.1583
+2010-01-20,landslide,downpour,medium,3.0,0.0,Peru,-74.2155,-13.1409
+2010-04-05,landslide,downpour,medium,0.0,0.0,Peru,-71.5841,-13.1171
+2015-04-27,landslide,downpour,medium,7.0,0.0,other/unknown,-38.4837,-12.9828
+2015-04-27,landslide,downpour,medium,7.0,0.0,Brazil,-38.4837,-12.9828
+2015-05-20,landslide,continuous_rain,small,1.0,1.0,Brazil,-38.5147,-12.9774
+2017-03-01,landslide,downpour,unknown,0.0,0.0,other/unknown,-76.155795,-12.975659
+2010-04-05,landslide,downpour,medium,0.0,0.0,Peru,-71.4216,-12.9655
+2015-04-27,landslide,downpour,medium,7.0,0.0,Brazil,-38.4764,-12.9379
+2010-01-23,mudslide,downpour,medium,0.0,0.0,Peru,-74.9756,-12.7823
+2014-01-20,landslide,downpour,large,1.0,225.0,Peru,-75.0369,-12.432
+2013-12-07,mudslide,downpour,medium,16.0,0.0,Brazil,-40.9044,-12.3546
+2011-01-09,landslide,downpour,medium,0.0,0.0,Peru,-73.1219,-12.3325
+2017-03-16,mudslide,continuous_rain,large,0.0,0.0,other/unknown,-76.76935764,-12.31013872
+2009-12-16,mudslide,downpour,medium,1.0,0.0,Peru,-76.2333,-12.15
+2014-07-31,rock_fall,unknown,small,0.0,0.0,Peru,-77.0252,-12.1456
+2014-02-14,rock_fall,unknown,small,0.0,2.0,Peru,-77.0271,-12.1407
+2013-11-25,rock_fall,earthquake,small,0.0,0.0,Peru,-77.0832,-12.0929
+2017-03-17,landslide,downpour,large,0.0,0.0,other/unknown,-76.90119589,-12.01467789
+2017-02-03,mudslide,continuous_rain,unknown,2.0,0.0,other/unknown,-76.51534903,-12.01269625
+2009-12-16,landslide,downpour,medium,0.0,0.0,Peru,-76.7094,-11.9431
+2009-02-15,mudslide,downpour,medium,0.0,0.0,Peru,-76.701,-11.9374
+2017-03-01,riverbank_collapse,downpour,small,0.0,0.0,other/unknown,-76.70218909,-11.93255048
+2017-03-16,landslide,downpour,large,0.0,0.0,other/unknown,-76.70147,-11.930724
+2015-03-24,debris_flow,downpour,medium,8.0,25.0,Peru,-76.6853,-11.9233
+2009-02-16,landslide,downpour,medium,0.0,0.0,Peru,-76.664,-11.9202
+2015-03-24,mudslide,downpour,medium,0.0,0.0,Peru,-76.6791,-11.9161
+2017-01-15,landslide,downpour,large,0.0,0.0,other/unknown,-76.66275382,-11.9028289
+2009-02-15,landslide,downpour,medium,0.0,0.0,Peru,-76.6643,-11.9009
+2017-03-16,mudslide,downpour,large,0.0,0.0,other/unknown,-76.62379815,-11.83785769
+2014-01-04,landslide,downpour,large,2.0,0.0,Peru,-71.9165,-11.6953
+2016-02-17,mudslide,downpour,large,0.0,25.0,Peru,-74.1365,-11.5589
+2007-01-19,landslide,downpour,large,10.0,0.0,Peru,-75.3587,-11.1295
+2016-03-08,landslide,mining,medium,2.0,0.0,Democratic Republic of the Congo,24.8656,-10.7142
+2016-11-17,landslide,mining,large,13.0,0.0,other/unknown,26.127974,-10.605689
+2007-01-03,complex,rain,medium,0.0,0.0,Peru,-75.4267,-10.3838
+2007-10-26,landslide,rain,medium,5.0,0.0,Papua New Guinea,150.4476,-10.3038
+2010-01-16,landslide,downpour,medium,0.0,0.0,Indonesia,123.5999,-10.2101
+2010-04-02,landslide,downpour,large,28.0,0.0,Peru,-76.2043,-10.1258
+2011-04-11,landslide,rain,medium,0.0,0.0,Malawi,33.4318,-9.938
+2010-11-07,landslide,downpour,medium,2.0,0.0,Peru,-76.2488,-9.9241
+2012-01-09,landslide,downpour,medium,1.0,0.0,Indonesia,120.4286,-9.9231
+2010-04-01,lahar,downpour,large,12.0,0.0,Peru,-76.1038,-9.7996
+2017-06-05,landslide,rain,medium,0.0,0.0,other/unknown,160.1781839,-9.632058442
+2013-04-13,landslide,rain,medium,0.0,0.0,Solomon Islands,160.1445,-9.5744
+2017-04-10,landslide,downpour,small,0.0,0.0,other/unknown,159.9698462,-9.444572674
+2010-01-21,complex,downpour,medium,0.0,0.0,Solomon Islands,159.95,-9.4333
+2014-11-19,landslide,downpour,medium,0.0,0.0,Peru,-77.1255,-9.3884
+2010-01-28,complex,downpour,medium,0.0,0.0,Peru,-77.5984,-9.3584
+2008-04-11,landslide,rain,medium,0.0,0.0,Peru,-77.6613,-9.2965
+2008-03-05,landslide,rain,medium,7.0,0.0,Peru,-76.1311,-9.2114
+2017-05-10,landslide,continuous_rain,small,0.0,0.0,other/unknown,33.55887923,-9.15405919
+2007-11-23,debris_flow,rain,large,0.0,0.0,Papua New Guinea,148.1139,-9.0087
+2017-03-11,landslide,unknown,unknown,18.0,0.0,other/unknown,-77.277592,-8.980346
+2016-07-01,mudslide,downpour,medium,1.0,0.0,Papua New Guinea,147.7119686,-8.907973013
+2011-04-05,landslide,downpour,medium,0.0,0.0,Angola,13.351,-8.8961
+2010-01-20,landslide,downpour,medium,0.0,0.0,Angola,13.3267,-8.875
+2015-03-13,landslide,downpour,medium,0.0,0.0,Solomon Islands,160.7981,-8.8615
+2010-02-11,landslide,rain,medium,0.0,0.0,Indonesia,121.6536,-8.8559
+2015-07-12,landslide,continuous_rain,medium,0.0,0.0,Solomon Islands,158.1908,-8.8189
+2010-03-23,landslide,downpour,medium,0.0,0.0,Angola,13.2272,-8.8176
+2011-07-16,mudslide,downpour,medium,0.0,0.0,Brazil,-36.9541,-8.8137
+2016-09-28,landslide,downpour,medium,0.0,0.0,Indonesia,115.1635,-8.8106
+2008-06-06,landslide,downpour,medium,0.0,0.0,Indonesia,120.280149,-8.773461589
+2010-02-21,complex,downpour,medium,9.0,0.0,Zambia,31.1137,-8.7588
+2015-06-03,landslide,no_apparent_trigger,medium,3.0,0.0,Indonesia,115.5442,-8.7401
+2007-03-01,landslide,rain,medium,12.0,0.0,East Timor,125.6723,-8.6993
+2016-05-20,landslide,downpour,medium,0.0,0.0,Solomon Islands,160.8362,-8.6974
+2007-03-03,landslide,downpour,medium,3.0,0.0,Indonesia,120.4401609,-8.626481143
+2011-01-09,mudslide,downpour,medium,0.0,0.0,Peru,-77.8341,-8.6252
+2011-02-06,landslide,continuous_rain,medium,0.0,0.0,East Timor,125.572,-8.5955
+2008-11-17,landslide,downpour,medium,1.0,0.0,Indonesia,115.4238,-8.5579
+2012-02-15,mudslide,downpour,medium,3.0,0.0,Peru,-78.0834,-8.5348
+2015-02-07,other,downpour,medium,2.0,2.0,Indonesia,115.5641,-8.5083
+2009-01-19,landslide,rain,medium,4.0,0.0,Indonesia,116.662,-8.5073
+2011-05-03,mudslide,downpour,medium,1.0,0.0,Brazil,-38.0702,-8.4454
+2010-04-18,landslide,downpour,medium,1.0,0.0,Indonesia,115.6018,-8.3919
+2010-12-13,landslide,downpour,medium,0.0,0.0,Indonesia,115.1389,-8.3383
+2014-01-23,landslide,downpour,unknown,1.0,0.0,Indonesia,114.928,-8.3262
+2010-12-13,landslide,downpour,medium,0.0,0.0,Indonesia,115.087,-8.3251
+2012-02-04,landslide,downpour,medium,0.0,0.0,Indonesia,114.9767,-8.2876
+2017-05-01,landslide,rain,small,0.0,1.0,other/unknown,115.0920102,-8.279864546
+2012-02-04,landslide,downpour,medium,2.0,0.0,Indonesia,115.1365,-8.2664
+2010-10-24,landslide,downpour,medium,2.0,0.0,Indonesia,115.3324,-8.2505
+2017-02-17,landslide,downpour,unknown,4.0,0.0,other/unknown,115.294324,-8.24510133
+2017-02-17,landslide,downpour,unknown,3.0,0.0,other/unknown,115.4153855,-8.213841663
+2014-01-23,landslide,downpour,large,1.0,0.0,Indonesia,114.928,-8.2053
+2012-03-14,landslide,downpour,large,6.0,0.0,Indonesia,115.4104,-8.2049
+2017-02-17,landslide,downpour,unknown,1.0,0.0,other/unknown,115.3306784,-8.199886501
+2013-02-18,landslide,rain,medium,2.0,0.0,Indonesia,115.1374,-8.198
+2010-05-24,landslide,downpour,medium,0.0,0.0,Indonesia,111.336,-8.1969
+2008-01-06,landslide,rain,medium,0.0,0.0,Indonesia,111.1038,-8.1955
+2014-01-23,landslide,downpour,unknown,1.0,0.0,Indonesia,115.1178,-8.1928
+2010-12-13,landslide,downpour,medium,0.0,0.0,Indonesia,115.1374,-8.1913
+2016-12-03,landslide,rain,medium,1.0,2.0,other/unknown,112.164807,-8.168861
+2014-01-23,landslide,downpour,large,0.0,0.0,Indonesia,115.1771,-8.1587
+2010-12-13,landslide,downpour,medium,0.0,0.0,Indonesia,115.113,-8.1578
+2008-02-16,landslide,rain,medium,0.0,0.0,Indonesia,111.7219,-8.1513
+2010-05-24,landslide,downpour,medium,0.0,0.0,Indonesia,111.2896,-8.1431
+2011-02-16,landslide,downpour,medium,0.0,0.0,Indonesia,111.2883,-8.1413
+2010-05-24,landslide,downpour,medium,0.0,0.0,Indonesia,111.5917,-8.1321
+2012-02-04,landslide,downpour,medium,0.0,0.0,Indonesia,115.3426,-8.1272
+2015-12-17,landslide,rain,medium,0.0,0.0,Indonesia,115.1005,-8.1262
+2014-01-23,landslide,downpour,large,2.0,0.0,Indonesia,115.2126,-8.1062
+2011-07-16,mudslide,downpour,medium,1.0,0.0,Brazil,-34.8813,-8.0543
+2016-09-10,landslide,downpour,large,0.0,0.0,other/unknown,112.61191,-8.034706
+2008-02-27,landslide,rain,medium,1.0,0.0,Indonesia,111.4,-8.0333
+2011-07-16,mudslide,downpour,medium,4.0,0.0,Brazil,-34.9817,-8.0204
+2010-06-17,landslide,downpour,medium,5.0,0.0,Brazil,-34.9029,-8.0011
+2009-02-25,mudslide,downpour,medium,0.0,0.0,Indonesia,112.6265,-7.9819
+2008-01-06,landslide,rain,medium,0.0,0.0,Indonesia,112.6278,-7.972
+2009-04-14,mudslide,downpour,medium,12.0,0.0,Peru,-77.5239,-7.9589
+2017-03-17,landslide,continuous_rain,medium,7.0,0.0,other/unknown,-78.57489565,-7.954477139
+2009-02-25,mudslide,downpour,medium,0.0,0.0,Indonesia,112.343,-7.9115
+2016-11-12,landslide,flooding,large,0.0,0.0,other/unknown,112.877378,-7.897214
+2017-04-09,landslide,rain,medium,0.0,0.0,other/unknown,111.6796011,-7.8536645
+2017-04-01,landslide,rain,medium,27.0,0.0,other/unknown,111.6799444,-7.853409423
+2008-12-17,landslide,downpour,medium,0.0,0.0,Indonesia,111.8408,-7.8313
+2014-01-31,landslide,downpour,large,0.0,0.0,Indonesia,112.453,-7.8291
+2009-04-14,mudslide,downpour,medium,0.0,0.0,Peru,-77.7172,-7.8058
+2016-12-07,landslide,flooding,unknown,0.0,0.0,other/unknown,111.845613,-7.803124
+2011-04-17,landslide,downpour,large,10.0,0.0,Indonesia,112.3245,-7.7819
+2017-04-09,landslide,downpour,large,5.0,0.0,other/unknown,111.806656,-7.765408764
+2009-11-21,landslide,downpour,medium,2.0,0.0,Indonesia,111.5441,-7.7434
+2013-01-28,landslide,rain,medium,6.0,0.0,Indonesia,110.7387,-7.7377
+2009-11-22,landslide,downpour,medium,0.0,0.0,Indonesia,109.0,-7.7333
+2016-02-05,landslide,downpour,medium,5.0,0.0,Indonesia,110.0302,-7.7235
+2016-06-18,landslide,rain,large,47.0,0.0,Indonesia,110.0557389,-7.711258905
+2013-12-20,landslide,downpour,large,2.0,0.0,Indonesia,110.0076,-7.7085
+2013-12-20,landslide,downpour,large,0.0,0.0,Indonesia,109.5337,-7.6926
+2007-12-31,landslide,rain,medium,0.0,0.0,Indonesia,111.1167,-7.6667
+2008-04-28,landslide,rain,large,60.0,0.0,Indonesia,111.117,-7.6667
+2007-12-26,landslide,rain,large,0.0,0.0,Indonesia,111.1835,-7.6511
+2015-07-26,landslide,unknown,medium,3.0,12.0,Indonesia,111.879,-7.6423
+2007-12-26,landslide,rain,large,37.0,0.0,Indonesia,109.547,-7.6213
+2016-11-29,landslide,rain,medium,3.0,0.0,other/unknown,111.0302789,-7.620422766
+2017-02-26,landslide,continuous_rain,unknown,0.0,0.0,other/unknown,110.1946528,-7.619105355
+2012-02-21,landslide,downpour,medium,1.0,0.0,Indonesia,111.0578,-7.6149
+2012-02-21,landslide,downpour,medium,1.0,0.0,Indonesia,111.1281,-7.5958
+2011-05-06,landslide,downpour,large,17.0,0.0,Indonesia,107.7705,-7.5907
+2013-12-20,landslide,continuous_rain,medium,4.0,4.0,Indonesia,109.6747,-7.5856
+2017-05-10,landslide,continuous_rain,small,0.0,0.0,other/unknown,36.79391662,-7.579046857
+2009-11-21,landslide,downpour,medium,0.0,0.0,Indonesia,109.9187,-7.571
+2016-06-18,landslide,rain,medium,0.0,0.0,Indonesia,109.475,-7.5532
+2014-01-27,landslide,downpour,large,7.0,0.0,Indonesia,112.2273,-7.5458
+2016-10-26,mudslide,rain,large,0.0,0.0,other/unknown,110.446035,-7.542442
+2014-01-26,landslide,downpour,unknown,0.0,2.0,Indonesia,110.4456,-7.5411
+2012-04-08,landslide,downpour,medium,0.0,0.0,Indonesia,109.3047,-7.533
+2011-05-06,landslide,downpour,medium,3.0,0.0,Indonesia,107.6982,-7.509
+2017-02-26,landslide,continuous_rain,unknown,0.0,0.0,other/unknown,110.3254073,-7.501529051
+2017-03-18,landslide,downpour,medium,1.0,1.0,other/unknown,107.868913,-7.498069
+2010-08-31,landslide,downpour,medium,6.0,0.0,Indonesia,109.1404,-7.4832
+2010-01-29,landslide,unknown,medium,1.0,0.0,Indonesia,107.6662643,-7.47144
+2009-11-20,landslide,downpour,medium,1.0,0.0,Indonesia,107.6621,-7.4657
+2015-01-22,landslide,unknown,small,0.0,0.0,Indonesia,109.6496,-7.4651
+2012-11-25,landslide,rain,medium,5.0,0.0,Indonesia,107.9608,-7.4576
+2015-01-12,landslide,downpour,small,0.0,3.0,Indonesia,110.2707,-7.4343
+2016-12-06,landslide,rain,large,13.0,0.0,other/unknown,110.297247,-7.430433
+2010-02-28,landslide,downpour,medium,3.0,0.0,Indonesia,109.8852,-7.412
+2016-10-09,landslide,downpour,medium,0.0,0.0,Indonesia,108.5406,-7.4056
+2016-10-09,landslide,downpour,medium,0.0,0.0,Indonesia,108.5624,-7.4053
+2010-04-21,landslide,downpour,medium,0.0,0.0,Indonesia,109.0947,-7.4038
+2015-01-24,landslide,continuous_rain,medium,0.0,0.0,Indonesia,109.8113,-7.4011
+2016-06-23,landslide,rain,medium,6.0,0.0,Indonesia,109.6666,-7.4001
+2012-04-08,landslide,downpour,medium,0.0,0.0,Indonesia,109.3613,-7.3901
+2016-10-09,landslide,downpour,medium,0.0,0.0,Indonesia,108.5802,-7.3887
+2017-02-20,landslide,downpour,medium,0.0,0.0,other/unknown,109.1838786,-7.381149881
+2016-10-09,landslide,downpour,medium,0.0,0.0,Indonesia,108.5684,-7.3686
+2009-09-15,landslide,downpour,medium,0.0,0.0,Indonesia,112.7145,-7.3683
+2014-12-04,landslide,rain,large,0.0,0.0,Indonesia,109.7303,-7.3674
+2011-12-18,landslide,downpour,large,11.0,0.0,Indonesia,109.9022,-7.3644
+2016-10-09,landslide,downpour,medium,0.0,0.0,Indonesia,108.5865,-7.3627
+2016-10-14,landslide,continuous_rain,medium,0.0,0.0,Indonesia,109.7489,-7.3519
+2012-01-06,landslide,downpour,medium,0.0,0.0,Indonesia,108.1592,-7.3414
+2010-02-01,landslide,downpour,medium,0.0,0.0,Indonesia,107.9547,-7.3411
+2014-04-04,landslide,rain,medium,5.0,0.0,Indonesia,108.2401,-7.3397
+2014-07-22,landslide,rain,small,4.0,0.0,Indonesia,108.2004,-7.3379
+2013-01-03,landslide,rain,medium,0.0,0.0,Indonesia,108.7275,-7.3357
+2014-12-04,landslide,rain,medium,0.0,0.0,Indonesia,109.7856,-7.3196
+2014-12-11,landslide,monsoon,medium,1.0,0.0,Indonesia,109.8377,-7.3112
+2010-01-20,landslide,downpour,medium,5.0,0.0,Indonesia,109.9139,-7.3111
+2014-02-04,landslide,downpour,medium,0.0,0.0,Indonesia,110.1775,-7.2986
+2014-12-12,landslide,monsoon,medium,108.0,14.0,Indonesia,109.7189,-7.2964
+2014-12-11,landslide,monsoon,small,0.0,0.0,Indonesia,109.7188,-7.2954
+2010-04-05,landslide,downpour,medium,2.0,0.0,Indonesia,110.0069,-7.2809
+2007-02-19,landslide,rain,large,21.0,0.0,Indonesia,110.141,-7.28
+2012-04-08,landslide,downpour,medium,0.0,0.0,Indonesia,109.3203,-7.2732
+2010-02-15,landslide,downpour,medium,1.0,0.0,Indonesia,107.581,-7.2708
+2014-07-24,landslide,continuous_rain,small,0.0,0.0,Indonesia,108.2036,-7.2643
+2010-02-21,landslide,downpour,medium,0.0,0.0,Indonesia,107.9097,-7.2484
+2016-09-25,landslide,downpour,large,1.0,0.0,Indonesia,109.8148,-7.2454
+2017-04-18,landslide,rain,small,0.0,0.0,other/unknown,146.4764078,-7.241780411
+2016-10-23,landslide,rain,medium,1.0,0.0,other/unknown,109.829559,-7.235152
+2013-02-06,landslide,rain,large,1.0,0.0,Indonesia,109.0605,-7.2337
+2010-01-20,landslide,downpour,medium,5.0,0.0,Indonesia,109.9349,-7.2337
+2010-08-26,landslide,downpour,medium,0.0,0.0,Indonesia,108.3289,-7.2269
+2011-05-06,landslide,downpour,medium,0.0,0.0,Indonesia,108.0197,-7.2269
+2015-05-05,landslide,construction,medium,4.0,0.0,Indonesia,107.6012,-7.1788
+2015-04-11,landslide,downpour,medium,0.0,0.0,Indonesia,108.9921,-7.159
+2016-12-24,landslide,rain,medium,4.0,0.0,other/unknown,146.5810575,-7.149976033
+2008-10-06,landslide,downpour,medium,0.0,0.0,Indonesia,107.5614,-7.1283
+2010-02-23,landslide,downpour,very_large,44.0,0.0,Indonesia,107.4737,-7.113
+2010-05-20,landslide,downpour,medium,0.0,0.0,Indonesia,107.9422,-7.0727
+2010-02-09,landslide,downpour,medium,0.0,0.0,Indonesia,108.3655,-7.0712
+2008-05-19,landslide,rain,medium,1.0,0.0,Indonesia,112.5827,-7.0678
+2010-03-09,landslide,downpour,medium,0.0,0.0,Indonesia,107.8832,-7.0643
+2010-07-13,mudslide,downpour,medium,0.0,0.0,Papua New Guinea,147.0348,-7.0607
+2010-09-08,landslide,downpour,medium,0.0,0.0,Indonesia,107.8995,-7.0562
+2010-03-11,landslide,downpour,medium,10.0,0.0,Indonesia,107.1344,-7.0549
+2010-05-19,landslide,downpour,medium,0.0,0.0,Indonesia,108.1156,-7.0528
+2014-02-04,landslide,downpour,medium,1.0,0.0,Indonesia,110.4113,-7.0394
+2012-11-18,landslide,rain,medium,4.0,0.0,Indonesia,107.5121,-7.0281
+2008-11-13,landslide,downpour,medium,5.0,0.0,Indonesia,106.9505,-7.0216
+2016-11-15,landslide,rain,small,0.0,0.0,other/unknown,110.442857,-7.019422
+2014-01-18,landslide,downpour,medium,0.0,0.0,Indonesia,110.4545,-7.0132
+2012-11-18,landslide,rain,large,2.0,0.0,Indonesia,107.5524,-7.0089
+2016-11-15,landslide,rain,small,0.0,0.0,other/unknown,110.422311,-7.004723
+2016-11-15,landslide,rain,small,0.0,0.0,other/unknown,110.41455,-7.00063
+2012-04-05,landslide,rain,medium,0.0,0.0,Indonesia,107.5044,-6.9959
+2014-01-18,landslide,downpour,medium,0.0,0.0,Indonesia,110.389,-6.9934
+2016-11-15,landslide,rain,small,0.0,0.0,other/unknown,110.410341,-6.990704
+2014-01-18,landslide,downpour,medium,0.0,0.0,Indonesia,110.4009,-6.9903
+2013-03-25,landslide,rain,large,6.0,0.0,Indonesia,107.4471,-6.9889
+2017-03-10,landslide,rain,unknown,0.0,0.0,other/unknown,107.460851,-6.987102
+2008-11-16,complex,downpour,medium,15.0,0.0,Indonesia,107.1424,-6.9857
+2012-02-26,landslide,downpour,medium,0.0,0.0,Indonesia,106.5646,-6.9811
+2011-11-04,landslide,downpour,medium,0.0,0.0,Indonesia,106.7018,-6.9788
+2012-04-08,landslide,downpour,medium,0.0,0.0,Indonesia,109.1949,-6.9759
+2013-03-25,landslide,rain,large,0.0,0.0,Indonesia,108.1008,-6.9758
+2011-11-04,landslide,downpour,medium,0.0,0.0,Indonesia,106.7233,-6.9697
+2013-01-03,landslide,rain,medium,0.0,0.0,Indonesia,107.888,-6.9675
+2007-04-21,landslide,rain,medium,5.0,0.0,Indonesia,110.4167,-6.9667
+2015-10-29,landslide,mining,medium,5.0,0.0,Indonesia,107.7271,-6.9656
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,107.0222,-6.9563
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.4785,-6.952
+2013-03-25,landslide,rain,large,0.0,0.0,Indonesia,107.474,-6.9373
+2006-01-04,mudslide,downpour,medium,240.0,0.0,Indonesia,110.1969,-6.9343
+2010-11-29,landslide,downpour,medium,3.0,0.0,Indonesia,107.5626,-6.9336
+2013-06-04,landslide,downpour,medium,5.0,0.0,Indonesia,109.2378,-6.9274
+2015-03-28,landslide,downpour,medium,12.0,0.0,Indonesia,107.0,-6.9237
+2014-01-11,landslide,continuous_rain,medium,0.0,0.0,Indonesia,106.9272,-6.9197
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.8762,-6.9092
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.9284,-6.9085
+2013-01-02,landslide,rain,medium,0.0,0.0,Indonesia,107.1222,-6.9046
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.9516,-6.9031
+2017-04-16,landslide,rain,medium,0.0,0.0,other/unknown,107.9346103,-6.895652888
+2010-08-25,landslide,downpour,medium,3.0,0.0,Indonesia,107.1749,-6.892
+2013-12-19,landslide,unknown,medium,1.0,0.0,Indonesia,107.5782,-6.8911
+2013-03-25,landslide,rain,large,0.0,0.0,Indonesia,107.6169,-6.8907
+2011-11-04,landslide,downpour,medium,0.0,0.0,Indonesia,106.8903,-6.8721
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.8903,-6.8717
+2008-02-06,landslide,rain,medium,4.0,0.0,Indonesia,109.0338,-6.8644
+2016-09-25,landslide,rain,medium,2.0,0.0,Indonesia,107.9299,-6.8628
+2014-11-05,rock_fall,downpour,medium,1.0,2.0,Indonesia,106.7234,-6.8463
+2010-11-23,landslide,downpour,medium,1.0,0.0,Indonesia,107.5844,-6.8396
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.659,-6.8349
+2014-12-28,landslide,downpour,medium,2.0,1.0,Indonesia,107.4706,-6.8345
+2017-04-15,landslide,downpour,medium,0.0,0.0,other/unknown,106.8305474,-6.830575165
+2012-11-18,landslide,rain,medium,0.0,0.0,Indonesia,106.742,-6.8255
+2014-03-16,landslide,unknown,medium,1.0,0.0,Indonesia,107.6073,-6.822
+2016-11-15,landslide,downpour,medium,4.0,0.0,other/unknown,107.5429852,-6.819792175
+2012-04-02,landslide,downpour,medium,0.0,0.0,Indonesia,107.1453,-6.8122
+2012-12-11,mudslide,rain,medium,2.0,0.0,Indonesia,106.5218,-6.8026
+2014-11-05,landslide,downpour,medium,0.0,1.0,Indonesia,106.7755,-6.7947
+2014-01-21,landslide,downpour,unknown,12.0,0.0,Indonesia,110.8371,-6.7912
+2007-12-05,landslide,rain,medium,78.0,0.0,Indonesia,107.4435,-6.7883
+2016-10-16,landslide,downpour,medium,7.0,0.0,Papua New Guinea,146.4261,-6.7663
+2014-01-18,landslide,downpour,medium,1.0,1.0,Indonesia,107.4983,-6.7564
+2009-10-26,landslide,downpour,medium,5.0,0.0,Indonesia,111.0394,-6.7536
+2008-02-15,landslide,rain,medium,5.0,0.0,Indonesia,110.8667,-6.7333
+2010-03-20,landslide,downpour,medium,0.0,0.0,Indonesia,107.1756,-6.7234
+2016-03-10,landslide,downpour,medium,5.0,8.0,Indonesia,107.0182,-6.7209
+2017-06-10,landslide,rain,small,0.0,0.0,other/unknown,106.6185846,-6.714382566
+2009-07-10,landslide,unknown,medium,5.0,0.0,Indonesia,106.7734,-6.703
+2014-12-26,landslide,downpour,medium,0.0,0.0,Indonesia,106.981,-6.7022
+2017-02-12,landslide,downpour,medium,0.0,0.0,other/unknown,106.9650693,-6.697669793
+2016-03-09,landslide,continuous_rain,medium,0.0,11.0,Indonesia,107.0274,-6.6811
+2013-01-15,landslide,downpour,medium,6.0,2.0,Indonesia,106.9064,-6.681
+2014-12-26,landslide,downpour,medium,1.0,0.0,Indonesia,106.9754,-6.681
+2008-09-24,complex,downpour,medium,4.0,0.0,Indonesia,106.76,-6.67
+2011-06-19,landslide,downpour,medium,2.0,0.0,Indonesia,106.3009238,-6.669735615
+2014-04-02,landslide,rain,medium,8.0,0.0,Indonesia,106.5464,-6.6687
+2014-01-21,landslide,downpour,medium,0.0,0.0,Indonesia,106.9059,-6.655
+2011-11-03,landslide,downpour,medium,0.0,0.0,Indonesia,106.8343,-6.6392
+2010-09-13,landslide,downpour,medium,0.0,0.0,Indonesia,106.765,-6.6367
+2010-02-15,landslide,downpour,medium,0.0,0.0,Indonesia,107.3461,-6.6279
+2013-03-25,landslide,rain,large,0.0,0.0,Indonesia,106.7087,-6.6234
+2013-03-25,landslide,rain,large,0.0,0.0,Indonesia,106.7161,-6.622
+2010-11-15,landslide,downpour,medium,4.0,0.0,Indonesia,106.7306,-6.621
+2017-02-09,landslide,downpour,large,0.0,0.0,other/unknown,105.7861277,-6.604482
+2017-02-27,landslide,downpour,unknown,1.0,0.0,other/unknown,106.7955661,-6.60253493
+2010-08-26,landslide,downpour,medium,0.0,0.0,Indonesia,106.8002,-6.6006
+2014-03-02,landslide,continuous_rain,large,4.0,0.0,Indonesia,106.8,-6.6
+2013-04-19,landslide,rain,medium,3.0,0.0,Indonesia,106.7987,-6.5909
+2016-09-07,landslide,rain,small,1.0,3.0,other/unknown,106.791206,-6.589661
+2016-02-28,landslide,flooding,medium,0.0,0.0,Indonesia,106.8011,-6.5895
+2012-05-26,landslide,rain,large,8.0,0.0,Indonesia,106.7932,-6.5873
+2011-11-03,landslide,downpour,medium,1.0,0.0,Indonesia,106.8269,-6.5857
+2011-04-20,landslide,downpour,medium,4.0,0.0,Indonesia,106.7732,-6.584
+2012-02-26,landslide,rain,medium,1.0,0.0,Indonesia,106.7895,-6.5817
+2011-11-24,landslide,downpour,medium,2.0,0.0,Indonesia,106.7814,-6.5702
+2012-02-22,complex,downpour,medium,1.0,0.0,Indonesia,106.7867,-6.5689
+2012-01-14,landslide,downpour,medium,0.0,0.0,Indonesia,106.2522,-6.5644
+2017-07-01,landslide,continuous_rain,medium,0.0,0.0,other/unknown,106.78629,-6.558993431
+2014-06-17,landslide,downpour,small,6.0,0.0,Indonesia,106.7816,-6.5317
+2017-06-30,landslide,continuous_rain,medium,0.0,0.0,other/unknown,106.7121322,-6.522155904
+2012-11-21,landslide,rain,medium,0.0,0.0,Indonesia,106.7959,-6.5097
+2010-02-09,mudslide,rain,medium,2.0,0.0,Indonesia,106.8776,-6.5044
+2017-01-10,landslide,downpour,large,0.0,0.0,other/unknown,147.0617104,-6.502260037
+2008-02-05,mudslide,rain,medium,2.0,0.0,Indonesia,106.2839,-6.4978
+2015-03-04,mudslide,rain,medium,0.0,0.0,Peru,-76.3867,-6.4859
+2017-04-17,landslide,rain,small,0.0,0.0,other/unknown,107.6281603,-6.47659174
+2017-02-26,landslide,continuous_rain,unknown,0.0,0.0,other/unknown,106.7653781,-6.412751806
+2012-12-20,landslide,rain,medium,0.0,0.0,Indonesia,106.8493,-6.3551
+2007-11-25,landslide,rain,medium,1.0,0.0,Papua New Guinea,147.1646,-6.3494
+2017-04-03,landslide,rain,small,1.0,0.0,other/unknown,106.814421,-6.342327734
+2016-08-19,mudslide,downpour,very_large,0.0,0.0,other/unknown,106.801076,-6.311708
+2008-05-24,landslide,downpour,large,4.0,0.0,Papua New Guinea,147.6,-6.3
+2008-12-04,landslide,downpour,medium,10.0,0.0,Papua New Guinea,145.8593,-6.2899
+2012-04-21,landslide,downpour,medium,0.0,0.0,Indonesia,106.8416895,-6.250474027
+2012-04-21,landslide,downpour,medium,0.0,0.0,Indonesia,106.8416895,-6.250422873
+2007-02-06,landslide,rain,medium,7.0,0.0,Indonesia,106.1,-6.25
+2013-12-31,landslide,downpour,medium,0.0,0.0,Indonesia,106.8099,-6.1984
+2014-02-23,landslide,downpour,large,0.0,0.0,Indonesia,106.6254,-6.195
+2015-07-04,landslide,unknown,medium,0.0,0.0,Papua New Guinea,143.6751,-6.1781
+2017-05-17,landslide,unknown,small,0.0,0.0,other/unknown,143.6461059,-6.150862403
+2012-09-11,landslide,downpour,medium,3.0,0.0,Papua New Guinea,143.6517,-6.1415
+2014-02-23,landslide,downpour,large,0.0,0.0,Indonesia,106.6113,-6.1354
+2014-12-22,landslide,continuous_rain,medium,0.0,0.0,Papua New Guinea,145.0722,-6.1014
+2017-02-19,landslide,rain,very_large,0.0,0.0,other/unknown,145.02236,-6.095327333
+2009-03-04,landslide,downpour,medium,7.0,0.0,Papua New Guinea,145.208,-6.084
+2013-11-03,mudslide,downpour,medium,0.0,0.0,Papua New Guinea,145.1667,-6.083
+2013-11-02,mudslide,downpour,large,9.0,3.0,Papua New Guinea,145.1667,-6.083
+2017-01-09,landslide,downpour,small,0.0,0.0,other/unknown,145.2061006,-6.082705342
+2013-01-28,landslide,rain,medium,0.0,0.0,Papua New Guinea,142.8548,-6.0609
+2008-04-09,landslide,rain,large,0.0,0.0,Papua New Guinea,144.9642,-6.0377
+2016-10-19,landslide,rain,medium,0.0,0.0,Papua New Guinea,144.9513,-6.0356
+2012-10-17,landslide,downpour,large,13.0,0.0,Peru,-77.2506,-6.0082
+2017-01-09,landslide,downpour,medium,0.0,0.0,other/unknown,144.9590951,-6.007163731
+2016-10-18,landslide,rain,medium,0.0,0.0,Papua New Guinea,145.0996,-5.8673
+2010-02-08,landslide,downpour,medium,0.0,0.0,Indonesia,105.7474,-5.8645
+2016-10-31,landslide,rain,unknown,2.0,2.0,other/unknown,144.236673,-5.857686
+2012-01-24,mudslide,continuous_rain,large,25.0,0.0,Papua New Guinea,142.9354,-5.8556
+2015-07-01,rock_fall,unknown,small,0.0,0.0,Papua New Guinea,144.2004,-5.8457
+2014-06-15,landslide,continuous_rain,medium,0.0,0.0,Brazil,-35.2059,-5.8141
+2014-06-23,mudslide,continuous_rain,medium,0.0,0.0,Brazil,-35.1888,-5.7946
+2014-06-14,landslide,continuous_rain,small,0.0,0.0,Brazil,-35.1916,-5.7897
+2015-03-03,landslide,downpour,medium,0.0,0.0,Peru,-77.6081,-5.7135
+2009-10-04,complex,downpour,medium,0.0,0.0,Indonesia,104.448,-5.5208
+2009-10-04,mudslide,downpour,medium,3.0,0.0,Indonesia,104.7608,-5.516
+2009-10-04,landslide,downpour,medium,1.0,0.0,Indonesia,104.4842,-5.4721
+2013-07-29,landslide,monsoon,medium,0.0,0.0,Indonesia,104.7045,-5.4589
+2013-01-24,landslide,rain,medium,2.0,0.0,Indonesia,105.2666,-5.4535
+2009-09-14,landslide,downpour,medium,0.0,0.0,Indonesia,104.3496,-5.4195
+2008-10-16,landslide,unknown,medium,2.0,0.0,Indonesia,120.3487,-5.33
+2011-12-04,landslide,downpour,large,11.0,0.0,Indonesia,119.4167,-5.1326
+2013-11-10,landslide,unknown,medium,0.0,0.0,Indonesia,104.014,-5.096
+2009-05-06,mudslide,rain,medium,3.0,0.0,Brazil,-45.601,-5.0804
+2017-05-10,landslide,continuous_rain,small,0.0,0.0,other/unknown,38.33224111,-4.87213351
+2017-05-08,landslide,continuous_rain,small,0.0,0.0,other/unknown,38.30385343,-4.843498811
+2008-06-10,landslide,downpour,medium,0.0,0.0,Indonesia,119.6038,-4.8386
+2013-07-29,landslide,monsoon,medium,0.0,0.0,Indonesia,105.2198,-4.5419
+2008-10-30,landslide,unknown,medium,5.0,0.0,Indonesia,121.729,-4.5
+2010-04-29,landslide,downpour,small,0.0,0.0,Indonesia,136.8448,-4.4585
+2008-05-05,landslide,unknown,medium,19.0,0.0,Indonesia,136.0438,-4.4032
+2009-12-14,landslide,rain,medium,1.0,0.0,Indonesia,137.0,-4.3333
+2015-03-18,landslide,continuous_rain,small,0.0,0.0,Ecuador,-79.7811,-4.3313
+2007-10-26,mudslide,rain,medium,0.0,0.0,Democratic Republic of the Congo,15.2962,-4.3269
+2010-07-05,landslide,downpour,medium,0.0,0.0,Indonesia,103.1797,-4.3256
+2007-10-29,landslide,downpour,medium,0.0,0.0,Republic of the Congo,15.266,-4.276
+2012-12-11,mudslide,rain,medium,0.0,0.0,Indonesia,103.049,-4.254
+2015-07-21,riverbank_collapse,unknown,medium,0.0,2.0,Papua New Guinea,142.8206,-4.2201
+2011-08-02,landslide,downpour,medium,1.0,0.0,Indonesia,138.1165,-4.193
+2015-05-01,landslide,continuous_rain,small,4.0,1.0,Kenya,39.5664,-4.1665
+2015-03-18,landslide,continuous_rain,medium,0.0,0.0,Ecuador,-79.4069,-4.138
+2009-11-10,landslide,downpour,large,20.0,0.0,Tanzania,37.7503,-4.0666
+2007-06-27,landslide,downpour,medium,0.0,0.0,Ecuador,-78.951,-4.065
+2014-04-30,landslide,downpour,small,3.0,0.0,Ecuador,-78.9638,-4.0602
