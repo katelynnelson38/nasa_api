@@ -13,3 +13,5 @@ This is the repo for my API and exploratory data analysis posts on my [blog](htt
     - landslide EDA (IN PROGRESS)
 3. `landslide.csv`
     - data exported from `landslide_api_eda.ipynb`
+
+**Note:** The EDA with the landslide data has not been completed yet
